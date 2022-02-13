@@ -7,7 +7,7 @@ self.addEventListener('install', function (event) {
                 '/uom_track/common.js',
                 '/uom_track/manifest.json',
                 '/uom_track/track.js',
-                '/uom_track/trackCss.css'
+                '/uom_track/trackCss.css',
                 '/uom_track/fwto1.jpg',
                 '/uom_track/fwto2.jpg',
                 '/uom_track/fwto3.jpg',
