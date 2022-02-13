@@ -1,0 +1,20 @@
+{
+    "short_name": "Track",
+    "name": "UoM Track",
+    "icons": [
+      {
+        "src": "./icon1.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./icon2.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/uomTrack/",
+    "background_color": "white",
+    "display": "standalone",
+    "description": "Uom Track"
+  }
